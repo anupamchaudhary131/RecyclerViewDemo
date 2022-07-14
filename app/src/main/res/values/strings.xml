@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="addContacts">Add Contacts</string>
+    <string name="name">Enter Your Name</string>
+    <string name="Contact">Enter Your Contact Number</string>
+    <string name="btnText">Add</string>
+</resources>
